@@ -1,0 +1,8 @@
+# Exercise 9.1
+
+.venv/
+__pycache__/
+logs/
+kaggle.json
+.env
+
